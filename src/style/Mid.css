@@ -1,0 +1,79 @@
+.containers{
+	
+}
+.cards{
+	display: block;
+    margin: auto;
+	margin-top: 15px;
+	border-radius: 5px;
+	width: 500px;
+	/*text-align: center;*/
+	background-color: #fff;
+	border: 1px solid rgba(0,0,0,0.125);
+	/*box-shadow: 1px 1px rgba(0,0,0,0.125) , -1px -1px  rgba(0,0,0,0.125);*/
+}
+.username{
+	margin-top: -5px;
+	font-weight: 600;
+}
+.time{
+	font-size: .8125rem;
+
+}
+.stetus{
+	color: #bbb;
+}
+.posts{
+	margin-top: 10px;
+	font-size: .9375rem;
+}
+.cards-in{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+img{
+	float: left;
+	overflow:hidden;
+}
+.buttonPost{
+	border-radius: 20px;
+	border-color: rgba(0,0,0,0); 
+	background-color:#f0f2f5;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 420px;
+	text-align: left;
+}	
+.post{
+	margin-left: 10px;
+	color: gray;
+}
+.createPost{
+	padding: 15px 15px 15px 15px;
+	font-size: 20px;
+	width: 100%;
+}
+.modalPost{
+
+}
+.namepost{
+	font-size: 15px;
+}
+.wposts{
+	margin-top: 10px;
+}
+textarea{
+	font-size: .9375rem;
+    border:none;
+    padding: 15px 15px 15px 15px;
+    margin: ;
+} 
+.detailPost{
+	border-style: none;
+	border-radius: 3px;
+	font-size: 20px;
+	float: right;
+	width: 100px;
+}

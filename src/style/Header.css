@@ -1,0 +1,83 @@
+.navbar {
+	position: fixed;
+	display: block;
+	height: 56px; 
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.125), -2px -2px 4px rgba(0,0,0,0.125);
+}
+.cover{
+	display: block;
+	float: left;
+}
+.midMenu{
+	margin-top: -26px;
+}
+.profilelist{
+	margin-top: -83px;
+	float: right;
+	margin-right: 2px;
+}
+svg{
+	margin-top: -2px;
+
+}
+
+.p361ku9c{
+	color: #fff;
+	
+}
+input{
+	border-radius: 20px;
+	border-color: rgba(0,0,0,0); 
+	background-color:#f0f2f5;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 250px;
+	text-align:center;
+	font-size:.9375rem;
+	margin-left: 10px;
+}	
+.mainList {
+    display: block;
+    padding-left: 77px;
+    overflow: hidden;
+    text-align:center;
+}
+
+.menuList { 
+  width: 111.594px;
+  float: left;
+  text-align:center;
+  padding: 8px;
+  border-radius: 4px;
+
+}
+.menuList:hover {    
+  background-color: #f0f2f5;
+}
+.menuList .menu {
+  color: gray;
+  width: 111.594px;
+
+}
+
+.menuprofile { 
+    float: left;
+    text-align:center;
+    padding: 8px;
+    border-radius: 100%;
+    background-color: #f0f2f5;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+
+}
+.menuprofile:hover {    
+  background-color: #bbb;
+}
+.menuprofile .profile {
+  color: gray;
+
+
+}

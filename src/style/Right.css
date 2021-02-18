@@ -1,0 +1,38 @@
+.covar{
+	margin-top: 45px;
+}
+h3 {
+    font-size: 1.0625rem;
+    font-weight: bold;
+    color: gray;
+}
+.contact{
+	margin-top: 35px;
+}
+.linkPage{
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	display: block;
+}
+
+.linkPage:hover{
+	background-color: #e4e6eb;
+	text-decoration: none;
+}
+.listContact{
+	border-radius: 10px;
+	display: block;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	background-color: #e4e6eb;
+
+}
+.listContact:hover{
+	background-color:#c7c7c7;
+	text-decoration:none;
+}
+.card{
+	background-color:  #f0f2f5;
+	border-color:rgba(0,0,0,0);
+}
